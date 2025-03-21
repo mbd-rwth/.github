@@ -1,5 +1,3 @@
-[TOC]
-
 # Methods for Model-based Development in Computational Engineering
 
 Our chair was founded by Professor Kowalski in August 2021. The group's research focuses on innovative methods for model-based development and decision support. This includes predictive process simulations as well as sustainable digital infrastructure and federated model and data architectures.
