@@ -22,6 +22,10 @@ URL: [mbd.rwth-aachen.de](https://www.mbd.rwth-aachen.de/)
 
 ### SHIRE
 
+![GitLab Release](https://img.shields.io/gitlab/v/release/96841?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de)
+![GitLab Release](https://img.shields.io/gitlab/v/license/96841?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de)
+
+
 `SHIRE` (Susceptibility Hazard mappIng fRamEwork) is a tool to facilitate and streamline landslide susceptibility and hazard mapping using a Random Forest classifier. It provides support for repetitive steps in landslide susceptibility and hazard mapping such as input dataset generation including data pre-processing.
 It is a Python-based modular framework that can be complemented with individual modules necessary for answering individual mapping challenges due to the open-access nature of the code.
 
