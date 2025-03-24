@@ -31,7 +31,7 @@ It is a Python-based modular framework that can be complemented with individual 
 
 ![](https://icons.getbootstrap.com/assets/icons/gitlab.svg) [git.rwth-aachen.de/mbd/shire](https://git.rwth-aachen.de/mbd/shire)
 ![](https://icons.getbootstrap.com/assets/icons/book.svg) [mbd.pages.rwth-aachen.de/shire](https://mbd.pages.rwth-aachen.de/shire/)
-![](https://icons.getbootstrap.com/assets/icons/newspaper.svg) [Edrich et al. (2024) in Springer:Natural Hazards](https://doi.org/10.1007/s11069-024-06563-8)
+![](https://icons.getbootstrap.com/assets/icons/journal-richtext.svg) [Edrich et al. (2024) in Springer:Natural Hazards](https://doi.org/10.1007/s11069-024-06563-8)
 
 
 ### pyresice
@@ -42,7 +42,7 @@ It is a Python-based modular framework that can be complemented with individual 
 `pyresice` contains the software used to create the Reusability-targeted Enriched Sea Ice Core Database (RESICE) and can be used to extend or reproduce the database.
 
 ![](https://icons.getbootstrap.com/assets/icons/gitlab.svg) [git.rwth-aachen.de/mbd/pyresice](https://git.rwth-aachen.de/mbd/pyresice)
-![](https://icons.getbootstrap.com/assets/icons/newspaper.svg) [Simson et al. (2025) in Nature:Scientific Data](https://doi.org/10.1038/s41597-025-04665-x)
+![](https://icons.getbootstrap.com/assets/icons/journal-richtext.svg) [Simson et al. (2025) in Nature:Scientific Data](https://doi.org/10.1038/s41597-025-04665-x)
 
 ## Courses
 
