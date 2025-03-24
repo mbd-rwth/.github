@@ -1,4 +1,4 @@
-![](https://git.rwth-aachen.de/mbd/gitlab-profile/-/blob/main/img/mbd.png)
+![](./img/mbd.png)
 
 # Methods for Model-based Development in Computational Engineering
 
