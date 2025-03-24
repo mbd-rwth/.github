@@ -1,4 +1,4 @@
-![](./img/mbd.png)
+![](./mbd.png)
 
 # Methods for Model-based Development in Computational Engineering
 
