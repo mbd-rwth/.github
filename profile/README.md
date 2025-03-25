@@ -58,3 +58,9 @@ Sustainable Computational Engineering introduces into the elements of data life 
 The lecture is offered since 2022.
 
 ![](https://icons.getbootstrap.com/assets/icons/globe2.svg) [mbd.pages.rwth-aachen.de/courses/sce](https://mbd.pages.rwth-aachen.de/courses/sce/)
+
+### QCE: Quantum Computational for Engineering
+
+Quantum computers are an emerging future technology that have the potential to fundamentally change the way we process data and solve problems using computational methods. This course aims to prepare students from engineering fields by providing an introduction to the world of quantum computing. Practical examples complement the lecture and will be used to illustrate the possibilities of using quantum computers today. Students will gain knowledge about the current state of development and possible future fields of quantum computing for engineers. The lecture is offered since 2024.
+
+![](https://icons.getbootstrap.com/assets/icons/globe2.svg) [mbd.pages.rwth-aachen.de/courses/sce](https://mbd.pages.rwth-aachen.de/courses/qce/)
