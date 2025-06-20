@@ -14,7 +14,7 @@ Our chair was founded by Professor Kowalski in August 2021. The group's research
 ![GitLab Release](https://img.shields.io/gitlab/v/release/92563?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de%2F)
 ![GitLab License](https://img.shields.io/gitlab/v/license/92563?gitlab_url=https%3A%2F%2Fgit.rwth-aachen.de)
 ![Conda Downloads](https://img.shields.io/conda/d/conda-forge/psimpy)
-<a href="https://pepy.tech/projects/psimpy"><img src="https://static.pepy.tech/badge/psimpy" alt="PyPI Downloads"></a>
+![Pepy Total Downloads](https://img.shields.io/pepy/dt/psimpy)
 
 `PSimPy` (Predictive and probabilistic simulation with Python) implements a Gaussian process emulation-based framework that enables systematic and efficient investigation of uncertainties associated with physics-based models (i.e. simulators).
 
