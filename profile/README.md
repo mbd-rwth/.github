@@ -44,6 +44,13 @@ It is a Python-based modular framework that can be complemented with individual 
 ![](https://icons.getbootstrap.com/assets/icons/gitlab.svg) [git.rwth-aachen.de/mbd/pyresice](https://git.rwth-aachen.de/mbd/pyresice)
 ![](https://icons.getbootstrap.com/assets/icons/journal-richtext.svg) [Simson et al. (2025) in Nature:Scientific Data](https://doi.org/10.1038/s41597-025-04665-x)
 
+### Zoomy
+
+`Zoomy` is a flexible modeling and simulation software for free-surface flows. Zoomy’s main objective is to provide a convenient modeling interface for complex free-surface flow models. Our own research focuses on hierarchical free-surface flow models, such as the Shallow Moment Equations. Zoomy transitions from a symbolic modeling layer to numerical layer, compatible with a multitude of numerical solvers, e.g. Numpy, Jax, Firedrake, FenicsX, OpenFOAM and AMReX. Additionally, we support the [PreCICE](https://precice.org/) coupling framework for some numerical backends. The use-cases of Zoomy evolve around (i) end-to-end mathematical modeling and numerical simulations, (ii) using Zoomy as a modeling frontend (iii) using Zoomy as the frontend for your existing numerical solver (iv) multi-physics coupling and simulations with Zoomy, preCICE and another solver of your choice.
+
+![](https://icons.getbootstrap.com/assets/icons/gitlab.svg) [github.com/ZoomyLab/Zoomy](https://github.com/ZoomyLab/Zoomy)
+![](https://icons.getbootstrap.com/assets/icons/book.svg) [zoomylab.github.io/Zoomy](https://zoomylab.github.io/Zoomy)
+
 ## Courses
 
 ### CMM: Continuum Mechanical Modeling for Simulation Science
